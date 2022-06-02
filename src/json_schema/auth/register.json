@@ -1,0 +1,14 @@
+{   "success" : {
+        "id": 4,
+        "token": "QpwL5tke4Pnpja7X4"
+    },
+    "undefined_user" : {
+        "error": "Note: Only defined users succeed registration"
+    },
+    "missing_email": {
+        "error": "Missing email or username"
+    },
+    "missing_pass" : {
+        "error": "Missing password"
+    }
+}
